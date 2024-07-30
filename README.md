@@ -1,4 +1,5 @@
 # Microsoft-Sentinel-Monitor-Live-Cyber-Attacks-Planned-Project-
+
 Designed a SIEM system with Microsoft Sentinel, covering architecture, security, and data analytics. Gained valuable experience despite not completing full deployment due to budget constraints.
 
 
@@ -32,9 +33,11 @@ This project involves creating a comprehensive Security Information and Event Ma
 - Secured the environment, observed the reduction of attacks, and documented all processes and outcomes.
 
 **Documentation**
+
 Detailed documentation of the project planning, implementation, and outcomes is provided in this repository. The goal is to observe and analyze live cyber-attacks, improve incident response, and enhance overall security posture.
 
 **Screenshots and Diagrams**
+
 Due to budget constraints, full deployment and live screenshots are not available. Below are sample diagrams and representations to illustrate the project's architecture and processes. Some images are sourced from publicly available materials for demonstration purposes.
 
 
