@@ -38,5 +38,6 @@ Detailed documentation of the project planning, implementation, and outcomes is 
 Due to budget constraints, full deployment and live screenshots are not available. Below are sample diagrams and representations to illustrate the project's architecture and processes. Some images are sourced from publicly available materials for demonstration purposes.
 
 
+Figure: Conceptual architecture of the SIEM system using Microsoft Sentinel.
 
 ![Image](https://github.com/user-attachments/assets/3a47b473-d5a4-42b2-8b33-17aa81fead70)
