@@ -36,9 +36,9 @@ This project involves creating a comprehensive Security Information and Event Ma
 
 Detailed documentation of the project planning, implementation, and outcomes is provided in this repository. The goal is to observe and analyze live cyber-attacks, improve incident response, and enhance overall security posture.
 
-**Screenshots and Diagrams**
+**Screenshots**
 
-Due to budget constraints, full deployment and live screenshots are not available. Below are sample diagrams and representations to illustrate the project's architecture and processes. Some images are sourced from publicly available materials for demonstration purposes.
+In Word document.
 
 
 Figure: Conceptual architecture of the SIEM system using Microsoft Sentinel.
